@@ -1,0 +1,33 @@
+canvas {
+            display:block;
+            margin:10px auto;
+            border:1px solid black;
+        }
+
+.container h1,h3{
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	/*font-family: 'Krub', sans-serif;
+	font-family: 'Roboto', sans-serif*/
+}
+
+.hero__title{
+	padding-top: 2%;
+}
+
+.hero__subtitle{
+	padding-bottom: 1%;
+}
+
+.hero__input{
+	width: 40%;
+	margin: 0 auto;
+}
+
+.hero__coor{
+	display: float;
+	position: absolute;
+	left: 150px;
+	top: 160px;
+}
+
